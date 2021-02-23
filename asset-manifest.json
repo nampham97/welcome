@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nampham97/welcome/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/nampham97/welcome/static/js/main.6ae97583.chunk.js",
+    "main.js.map": "/nampham97/welcome/static/js/main.6ae97583.chunk.js.map",
+    "runtime-main.js": "/nampham97/welcome/static/js/runtime-main.3cfcb5c2.js",
+    "runtime-main.js.map": "/nampham97/welcome/static/js/runtime-main.3cfcb5c2.js.map",
+    "static/js/2.02cb0d5c.chunk.js": "/nampham97/welcome/static/js/2.02cb0d5c.chunk.js",
+    "static/js/2.02cb0d5c.chunk.js.map": "/nampham97/welcome/static/js/2.02cb0d5c.chunk.js.map",
+    "static/js/3.6c23cda6.chunk.js": "/nampham97/welcome/static/js/3.6c23cda6.chunk.js",
+    "static/js/3.6c23cda6.chunk.js.map": "/nampham97/welcome/static/js/3.6c23cda6.chunk.js.map",
+    "index.html": "/nampham97/welcome/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/nampham97/welcome/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.02cb0d5c.chunk.js.LICENSE.txt": "/nampham97/welcome/static/js/2.02cb0d5c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/nampham97/welcome/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cfcb5c2.js",
+    "static/js/2.02cb0d5c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.6ae97583.chunk.js"
+  ]
+}
